@@ -1,0 +1,1 @@
+print("Bright IT Future\n"*10)
